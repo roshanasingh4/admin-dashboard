@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-error",
+        "content": "Money collection pending"
+    },
+    {
+        "icon": "bx bx-package",
+        "content": "Parcel damaged in transit"
+    },
+    {
+        "icon": "bx bx-cart",
+        "content": "Products pending in cart"
+    },
+    {
+        "icon": "bx bx-error",
+        "content": "CRM integrated with errors, contact admin"
+    },
+    {
+        "icon": "bx bx-cart",
+        "content": "Payment still pending for items in cart"
+    }
+]
